@@ -1,7 +1,7 @@
 ## 💤 ytmusic-cli
 a simple useless youtube music terminal player
 
-![](github/figures.png)
+![](github/images.png)
 
 ## 📚 Installation
 
