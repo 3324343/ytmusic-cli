@@ -1,3 +1,3 @@
-## ytmusic
-a simple useless ytmusic terminal player
+## ytmusic-cli
+a simple useless youtube music terminal player
 
