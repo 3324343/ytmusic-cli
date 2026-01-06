@@ -6,4 +6,5 @@ a simple useless youtube music terminal player
 Debian/Ubuntu
 ```sudo apt upgrade
 apt install python mpv
-pip install yt-dlp``
+pip install yt-dlp
+```
