@@ -5,7 +5,7 @@ a simple useless youtube music terminal player
 
 ## 📚 Installation
 
-Debian/Ubuntu
+Debian/Ubuntu/Termux
 ```
 sudo apt upgrade
 apt install python mpv git
