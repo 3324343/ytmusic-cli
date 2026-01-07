@@ -15,6 +15,6 @@ git clone https://github.com/3324343/ytmusic-cli
 Arch Linux
 ```
 sudo pacman -Syu
-sudo pacman -S python mpv yt-dlp git
+sudo pacman -S python python-rich mpv yt-dlp git
 git clone https://github.com/3324343/ytmusic-cli
 ```
