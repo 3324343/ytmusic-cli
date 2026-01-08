@@ -1,4 +1,4 @@
-## 💤 ytmusic-cli
+## 💤 ytmusic
 a simple useless youtube music terminal player
 
 ![](images.png)
